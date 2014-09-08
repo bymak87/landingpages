@@ -5,6 +5,8 @@
  */
 
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
+
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -85,6 +87,9 @@ sub {
 }
 img {
   border: 0;
+}
+.log{
+  padding-top: -10em;
 }
 svg:not(:root) {
   overflow: hidden;
@@ -900,7 +905,7 @@ body {
   line-height: 1.42857143;
   color: #333;
   background-color: #fff;
-  background: url(../bgc.jpg) no-repeat center center fixed;
+  background: url(../img/coffeeshop-bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
